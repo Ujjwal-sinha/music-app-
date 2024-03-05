@@ -44,8 +44,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 
-![Screenshot (242)](https://github.com/Ujjwal-sinha/music-app-/assets/115147132/554f2128-712c-4f49-86b1-0ebe1a0d23c7)![Screenshot (243)](https://github.com/Ujjwal-sinha/music-app-/assets/11514![Screenshot (244)](https://github.com/Ujjwal-sinha/music-app-/assets/115147132/b0cbf5f8-1b1c-428a-a51d-2862caf38ff7)
-7132/eed320b2-6429-4e11-9b6f-10e9820a3373)
+![Screenshot (242)](https://github.com/Ujjwal-sinha/music-app-/assets/115147132/554f2128-712c-4f49-86b1-0ebe1a0d23c7)
+![Screenshot (243)](https://github.com/Ujjwal-sinha/music-app-/assets/115147132/eed320b2-6429-4e11-9b6f-10e9820a3373)
 
-
+![Screenshot (244)](https://github.com/Ujjwal-sinha/music-app-/assets/115147132/b0cbf5f8-1b1c-428a-a51d-2862caf38ff7)
 
