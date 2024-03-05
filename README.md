@@ -1,5 +1,3 @@
-![Screenshot (240)](https://github.com/Ujjwal-sinha/music-app-/assets/115147132/300008c0-cdda-4220-8fb7-156081939ec3)This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
 
 First, run the development server:
@@ -35,7 +33,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 // photos
-
+![Screenshot (240)](https://github.com/Ujjwal-sinha/music-app-/assets/115147132/300008c0-cdda-4220-8fb7-156081939ec3)This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 ![Screenshot (238)](https://github.com/Ujjwal-sinha/music-app-/assets/115147132/bc16e4b8-58f7-4ec7-b41c-34482bdacfc6)
 
 
